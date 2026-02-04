@@ -1,0 +1,26 @@
+h1{
+    color:teal;
+    background-color: crimson;
+    font-family: cursive;
+    font-size:larger;
+    text-align:center;
+    text-decoration:line-through;
+    text-decoration-color: black;
+    text-shadow: 2px 4px 2px black;
+}
+
+p{
+    font-family: cursive;
+    text-indent: 20px;
+    letter-spacing: 3px;
+    line-height: 30px;
+    text-shadow: 3px 3px 3px black;
+    word-spacing: 5px;
+    color: transparent;
+}
+
+a{
+    color: rgb(255, 0, 128);
+    text-decoration:line-through;
+    text-decoration-color: blue;
+}

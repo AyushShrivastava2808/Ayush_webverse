@@ -1,0 +1,18 @@
+.container{
+    /* border: 2px solid rgb(229, 54, 83);
+    height: 200px;
+    width: 400px;
+    overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto; */
+    text-align: justify;
+}
+
+img{
+    float: right;
+}
+
+p{
+    clear: right;
+}

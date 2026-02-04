@@ -1,0 +1,13 @@
+url -> (uniform resource locator) : used to access something on the internet
+https://www.wikipedia.org
+
+protocol : a set of instructions
+>> http : hyper text transfer protocol
+>> https : hyper text transfer protocol secure
+>> ftp : file transfer protocol
+>> smtp : simple mail transfer protocol
+>> tcp : transmission control protocol
+>> upd : user datagram protocol
+>> ip : internet protocol
+
+http --> ssl(secure socket layer) --> https

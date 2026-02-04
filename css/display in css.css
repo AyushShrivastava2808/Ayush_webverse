@@ -1,0 +1,17 @@
+*{
+    border: 2px solid darkturquoise;
+}
+
+#a{
+    background-color: black;
+}
+
+a{
+    display: block;
+}
+
+img{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}

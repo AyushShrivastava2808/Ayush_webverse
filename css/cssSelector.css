@@ -1,0 +1,40 @@
+/* p{
+    color: red;
+    background-color: yellow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+/* 
+h2{
+    color: rgb(26, 255, 0);
+    background-color: rgb(0, 213, 255);
+} */
+
+/* #demo{
+    color: rgb(0, 255, 55);
+    background-color: rgb(255, 0, 162);
+} */
+
+/* .a{
+    color:aqua;
+    background-color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:line-through;
+    text-align: center;
+} */
+
+/* #nested{
+    color:chartreuse;
+    background-color: black;
+} */
+
+/* .nested{
+    color:deeppink;
+    background-color: black;
+} */
+
+*{
+    color:chartreuse;
+    background-color: black;
+}

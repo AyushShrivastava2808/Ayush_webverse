@@ -1,0 +1,9 @@
+div{
+    border: 10px solid darkorange;
+    padding: 35px;
+    /* padding: 35px 25px 15px 5px; -> clockwise */
+    /* padding-left: 70px; */
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+}
